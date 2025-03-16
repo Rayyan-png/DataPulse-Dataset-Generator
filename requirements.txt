@@ -1,3 +1,5 @@
 Faker
 pandas
-streamlit
+flask
+random
+io
