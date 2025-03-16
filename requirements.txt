@@ -1,5 +1,4 @@
 Faker
 pandas
 flask
-random
-io
+streamlit
